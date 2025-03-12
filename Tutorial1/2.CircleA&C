@@ -1,3 +1,0 @@
-import math;
-rad = float(input());
-print(math.pi * rad**2, 2 * math.pi * rad)

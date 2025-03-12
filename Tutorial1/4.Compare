@@ -1,2 +1,0 @@
-num1, num2 = int(input()), int(input());
-print(f"{num1} > {num2}" if num1 > num2 else f"{num2} > {num1}" if num2 > num1 else "Equal")
